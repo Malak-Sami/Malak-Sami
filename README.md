@@ -1,5 +1,12 @@
 # Malak Sami
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF0000&width=600&lines=Hello+Coders!+👋;I'm+Malak+Sami;WordPress+Developer;UI/UX+Designer+%7C+Adobe+Expert;Front-End+Learner;Flutter+%26+Python+Basics" alt="Typing SVG" />
+</p>
+
+
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin)](https://www.linkedin.com/in/malaksami)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=social&logo=behance)](https://www.behance.net/malak-sami)
 [![Gmail](https://img.shields.io/badge/-malaksami010084@gmail.com-red?style=social&logo=Gmail)](mailto:malaksami010084@gmail.com)
