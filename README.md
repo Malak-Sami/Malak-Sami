@@ -48,4 +48,59 @@ from designing user interfaces to building complete websites.
 
 ## 📱 **Mobile Development**
 <p>
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&log
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
+</p>
+
+---
+
+## 🧪 **Programming**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+</p>
+
+---
+
+## 🛠️ **Development Tools**
+<p>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+# 🎓 **Certificates**
+
+### ✔ Google — Foundations of UX Design  
+🔗 https://coursera.org/verify/1LXEP6B4BG8U
+
+### ✔ Udemy — The Web Front End Learning Guide  
+🔗 https://ude.my/UC-08b99148-9fd5-419f-8db2-c0bf69673a24
+
+### ✔ Coursera — Programming for Everybody (Python)  
+🔗 https://coursera.org/verify/NY4KDEUYGLBY
+
+---
+
+# 📝 **Portfolio**
+👉 **Behance:** https://www.behance.net/malak-sami
+
+---
+
+<div align="center">
+  <details>
+    <summary><b>GitHub Metrics 👇</b></summary><br>
+    <img src="https://metrics.lecoq.io/Malak-Sami?template=classic&isocalendar=1&followup=1&achievements=1&isocalendar.duration=half-year&followup.sections=repositories&config.timezone=Africa%2FCairo">
+  </details>
+</div>
+
+---
+
+# 🦜 Fun Zone  
+<div>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30"/>
+</div>
